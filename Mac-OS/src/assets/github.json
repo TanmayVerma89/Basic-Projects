@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+    "title": "Personal Portfolio",
+    "description": "A responsive personal portfolio website showcasing projects, skills, and contact information.",
+    "tags": ["HTML", "CSS", "JavaScript", "TailwindCSS", "Vite"],
+    "repoLink": "https://github.com/yourusername/portfolio",
+    "demoLink": "https://yourportfolio.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d",
+    "title": "E-commerce App",
+    "description": "Full-stack e-commerce application with product listing, cart, and payment integration.",
+    "tags": ["Java", "Spring Boot", "MySQL", "REST API", "JWT", "Stripe"],
+    "repoLink": "https://github.com/yourusername/ecommerce-app",
+    "demoLink": null
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1526378722484-cc5c510f3f77",
+    "title": "Realtime Chat App",
+    "description": "A real-time chat application with authentication and WebSocket-based messaging.",
+    "tags": ["Node.js", "Socket.io", "Express", "MongoDB", "WebSockets"],
+    "repoLink": "https://github.com/yourusername/chat-app",
+    "demoLink": "https://chatapp-demo.vercel.app"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b",
+    "title": "Task Manager",
+    "description": "A task management tool to track daily tasks with CRUD operations and filtering.",
+    "tags": [".NET", "C#", "SQL Server", "Entity Framework", "REST API"],
+    "repoLink": "https://github.com/yourusername/task-manager",
+    "demoLink": null
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
+    "title": "Blog Platform",
+    "description": "A full-featured blogging platform with markdown support and user authentication.",
+    "tags": ["Next.js", "Node.js", "MongoDB", "GraphQL", "JWT"],
+    "repoLink": "https://github.com/yourusername/blog-platform",
+    "demoLink": "https://blog-demo.vercel.app"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "title": "Weather App",
+    "description": "A weather forecasting app using external APIs to display real-time weather data.",
+    "tags": ["Python", "Flask", "REST API", "PostgreSQL", "API Integration"],
+    "repoLink": "https://github.com/yourusername/weather-app",
+    "demoLink": null
+  }
+]
